@@ -480,6 +480,7 @@ input {
     font-size: 18px;
     line-height: 154.7%;
     color: #565656;
+    text-transform: capitalize;
 }
 .news-content h3 {
     margin: 26px 0 35px;
